@@ -1,27 +1,23 @@
-# My Project
+<details>
+  <summary>🚀 Tab 1: Overview</summary>
 
-## Tabs
-- [Tab 1: Overview](#tab-1-overview)
-- [Tab 2: Installation](#tab-2-installation)
-- [Tab 3: Usage](#tab-3-usage)
-- [Tab 4: Contributing](#tab-4-contributing)
-
----
-
-## Tab 1: Overview
 Nội dung của **Tab 1** ở đây.
+</details>
 
----
+<details>
+  <summary>🛠 Tab 2: Installation</summary>
 
-## Tab 2: Installation
 Hướng dẫn **cài đặt** cho dự án của bạn.
+</details>
 
----
+<details>
+  <summary>📚 Tab 3: Usage</summary>
 
-## Tab 3: Usage
 Cách sử dụng dự án được mô tả ở đây.
+</details>
 
----
+<details>
+  <summary>🤝 Tab 4: Contributing</summary>
 
-## Tab 4: Contributing
 Quy trình và hướng dẫn **đóng góp** vào dự án của bạn.
+</details>
